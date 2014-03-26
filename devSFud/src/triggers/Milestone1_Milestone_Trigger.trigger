@@ -1,0 +1,1 @@
+trigger Milestone1_Milestone_Trigger on Milestone1_Milestone__c (after delete) {} // SFXOrgData

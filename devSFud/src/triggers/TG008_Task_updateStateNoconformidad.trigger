@@ -1,0 +1,1 @@
+trigger TG008_Task_updateStateNoconformidad on Task (after delete) {} // SFXOrgData

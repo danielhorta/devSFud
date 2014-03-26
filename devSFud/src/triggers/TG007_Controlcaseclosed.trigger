@@ -1,0 +1,1 @@
+trigger TG007_Controlcaseclosed on Case (after delete) {} // SFXOrgData

@@ -1,0 +1,1 @@
+trigger newtregger on Product2 (after delete) {} // SFXOrgData

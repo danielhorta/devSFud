@@ -1,0 +1,1 @@
+trigger TG003_Asset_UpdateLifeTime on Asset (after delete) {} // SFXOrgData

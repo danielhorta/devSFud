@@ -1,0 +1,1 @@
+trigger TG004_Movimiento_produccion_ActualizationActivo on Movimiento_produccion__c (after delete) {} // SFXOrgData

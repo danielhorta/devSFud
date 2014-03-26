@@ -1,0 +1,1 @@
+trigger TG006_Quotelineitem_Update_Opportunitylineitem on QuoteLineItem (after delete) {} // SFXOrgData

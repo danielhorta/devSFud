@@ -1,0 +1,1 @@
+trigger TG005_Quotelineitem_UpdateQuoteTotalPrice on QuoteLineItem (after delete) {} // SFXOrgData

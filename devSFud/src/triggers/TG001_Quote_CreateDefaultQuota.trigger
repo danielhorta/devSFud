@@ -1,0 +1,1 @@
+trigger TG001_Quote_CreateDefaultQuota on Quote (after delete) {} // SFXOrgData
